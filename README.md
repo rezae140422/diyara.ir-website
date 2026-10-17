@@ -1,4 +1,4 @@
-# Retail Business Website
+# Diyara.ir — Website
 
 **Built by Hamidreza Lotfi — 2026**
 
