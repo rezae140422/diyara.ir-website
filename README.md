@@ -13,7 +13,7 @@ A public website for a retail business, designed to present the business, its pr
 - Providing general information pages and contact options
 - A responsive, accessible experience on mobile and desktop
 
-This page is a general, anonymous summary only. It deliberately contains no client name, domain, business data, or confidential detail.
+This page is a general, anonymous summary only. Client data, business details, and confidential information are not included on this page.
 
 ## Why the code is not published
 
